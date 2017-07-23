@@ -12,31 +12,29 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Robotics",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+
+# [[education.courses]]
+#  course = "MS in Robotics "
+#  institution = "Worcester Polytechnic Institute"
+#  year = 2017-2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.Tech in Chemical Engineering (Minor in Artificial Intelligence)"
+  institution = "Indian Institue of Technology Kanpur"
+  year = 2017
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a First Year Graduate Student pursuing Masters in Robotics Engineering at [Worcester Polytechnic Institute, Massachusetts](https://www.wpi.edu/academics/study/robotics-engineering-ms). I completed my B.Tech from the [Indian Institute of Technology, Kanpur](http://iitk.ac.in/) with a minor in Artificial Intelligence. My research interests lie broadly in the fields of Robotics and Artificial intelligence particularly in the field of robotic perception and algorithmic planning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Since the past year, I have been working on lane detection and localisation for self-driving cars for the [Intelligent Ground Vehicle Competition](http://www.igvc.org/) under the guidance of [Prof. Gaurav Pandey](http://www.iitk.ac.in/ee/gaurav-pandey). I have also been an active member of [Team Robocon IIT Kanpur](http://students.iitk.ac.in/robocon/) taking part in [ABU Robocon](http://aburobocon.net/) in 2014, 2015 and 2016. As part of the team, I have worked on the programming, design and fabrication of [Line Following and Pole Climbing Bot](https://www.youtube.com/watch?v=4vAes6m6usg),  [Badminton Playing bot](https://www.youtube.com/watch?v=9LFS0ITb_V4) and [Autonomous Pole Walker](https://www.youtube.com/watch?v=hoDn82fd3Tk&t=21s) under the guidance of [Dr. Bhaskar Dasgupta](http://home.iitk.ac.in/~dasgupta/) and [Dr. Anjali Kulkarni](http://home.iitk.ac.in/~anjalik/).
+
+You can find my resume [here](http://spjain.github.io/resources/CV.pdf).
