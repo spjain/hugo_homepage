@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Shubham Jain"
-  role = "Graduate Student"
+  role = "Graduate Student, Robotics"
   organization = "Worcester Polytechnic Institute"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir = false
   address = ""
   office_hours = ""
   phone = "+91-998-709-7414"
-  skype = "shubham.jain111"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
