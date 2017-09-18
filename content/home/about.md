@@ -37,4 +37,4 @@ I am a First Year Graduate Student pursuing Masters in Robotics Engineering at [
 
 For the past year, I worked on lane detection and localisation for self-driving cars for the [Intelligent Ground Vehicle Competition](http://www.igvc.org/) under the guidance of [Prof. Gaurav Pandey](http://www.iitk.ac.in/ee/gaurav-pandey). I have also been an active member of [Team Robocon IIT Kanpur](http://students.iitk.ac.in/robocon/) taking part in [ABU Robocon](http://aburobocon.net/) in 2014, 2015 and 2016. As part of the team, I have worked on the programming, design and fabrication of [Line Following and Pole Climbing Bot](https://www.youtube.com/watch?v=4vAes6m6usg),  [Badminton Playing bot](https://www.youtube.com/watch?v=9LFS0ITb_V4) and [Autonomous Pole Walker](https://www.youtube.com/watch?v=hoDn82fd3Tk&t=21s) under the guidance of [Dr. Bhaskar Dasgupta](http://home.iitk.ac.in/~dasgupta/) and [Dr. Anjali Kulkarni](http://home.iitk.ac.in/~anjalik/).
 
-My CV can be found [here](http://spjain.github.io/resources/CV.pdf).
+My CV can be found [here](http://spjain.github.io/resources/Resume.pdf).

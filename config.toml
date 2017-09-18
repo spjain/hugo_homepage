@@ -1,6 +1,6 @@
 baseurl = "https://spjain.github.io/"  # End your URL with a `/` trailing slash.
 title = "Shubham Jain"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; Shubham Jain"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   email = "spjain@wpi.edu"
   address = ""
   office_hours = ""
-  phone = "+91-998-709-7414"
+  phone = "+1 508-615-3083"
   skype = ""
   telegram = ""
 
@@ -82,7 +82,7 @@ defaultContentLanguageInSubdir = false
   # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -158,23 +158,23 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+ # name = "Academic Projects"
+ # url = "#projects_selected"
+ # weight = 2
+
+#[[menu.main]]
+#  name = "Internships"
+#  url = "#internships"
+#  weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
+  name = "Projects and Internships"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Relevant Courses"
   url = "#teaching"
   weight = 5
 

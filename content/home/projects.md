@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Projects"
+title = "Projects and Internships"
 subtitle = ""
 widget = "projects"
 
@@ -15,7 +15,7 @@ weight = 50
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 # Add or remove as many filters (`[[filter]]` instances) as you like.
@@ -26,12 +26,16 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Internships"
+  tag = ".internship"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Academic Projects"
+  tag = ".academic"
+
+[[filter]]
+  name = "ABU Robocon Projects"
+  tag = ".robocon"
 
 +++
 
